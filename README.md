@@ -51,6 +51,12 @@ Simulação do circuito desenvolvida no Tinkercad:
 
 ---
 
+## 📄 Documentação
+Relatório técnico completo do projeto:  
+🔗 docs/Relatorio_Eletronica_Digital.pdf
+
+---
+
 ## 🧠 Aprendizados
 - Eletrônica digital aplicada
 - Circuitos sequenciais e temporização
